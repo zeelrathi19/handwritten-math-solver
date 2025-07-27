@@ -9,11 +9,11 @@ This project implements an end-to-end solution for analyzing and solving handwri
 -> Features
 
 - Character Recognition: Recognizes digits (0-9) and operators (+, -, ×)
-- Image Processing: Advanced preprocessing including noise reduction, binarization, and           segmentation
+- Image Processing: Advanced preprocessing including noise reduction, binarization, and segmentation
 - CNN-based Classification: Deep learning model with 98.5% accuracy
 - Real-time Solving: Automatic evaluation of recognized mathematical expressions
 - Robust Segmentation: Handles connected and overlapping characters
-- CROHME Dataset: Trained on Competition on Recognition of Online Handwritten Mathematical        Expressions dataset
+- CROHME Dataset: Trained on Competition on Recognition of Online Handwritten Mathematical Expressions dataset
 
 -> Supported Operations
 
@@ -87,8 +87,8 @@ Example Usage
 5. Evaluate the mathematical expression
 
 Output example:
-"The evaluation of the image gives equation: 2+3*4"
-"The evaluation of the image gives --> 2+3*4 = 14"
+The evaluation of the image gives equation: 2+3*4, 
+The evaluation of the image gives --> 2+3*4 = 14
 
 System Architecture
 1. Image Preprocessing
