@@ -77,18 +77,18 @@ python math_solver.py
 
 
 Example Usage
-# Load and process image
+- Load and process image
 
-# The system will:
-# 1. Preprocess the image
-# 2. Segment individual characters
-# 3. Classify each character using CNN
-# 4. Reconstruct the equation
-# 5. Evaluate the mathematical expression
+- The system will:
+1. Preprocess the image
+2. Segment individual characters
+3. Classify each character using CNN
+4. Reconstruct the equation
+5. Evaluate the mathematical expression
 
-# Output example:
-# "The evaluation of the image gives equation: 2+3*4"
-# "The evaluation of the image gives --> 2+3*4 = 14"
+Output example:
+"The evaluation of the image gives equation: 2+3*4"
+"The evaluation of the image gives --> 2+3*4 = 14"
 
 System Architecture
 1. Image Preprocessing
